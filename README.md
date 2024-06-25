@@ -41,4 +41,4 @@ To run the application locally, follow these steps:
 
 
 # Authors
-[Krishna Kayaking] - Creator and developer
+[#Krishna Kayaking] - Creator and developer
