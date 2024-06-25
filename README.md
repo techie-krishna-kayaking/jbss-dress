@@ -41,4 +41,4 @@ To run the application locally, follow these steps:
 
 
 # Authors
-[#KrishnaKayaking] - Creator and developer
+#TechieKrishnaKayaking - Creator and developer
