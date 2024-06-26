@@ -39,6 +39,5 @@ To run the application locally, follow these steps:
 - OpenCV: Library for image processing.
 - WebColors: Library for parsing color input from users.
 
-
-# Authors
-[Krishna Kayaking](#Techie-Krishna-Kayaking) - Creator and developer
+## Author
+[Krishna Kayaking](https://github.com/techie-krishna-kayaking)- Creator and developer
