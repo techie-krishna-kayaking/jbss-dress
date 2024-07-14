@@ -40,4 +40,4 @@ To run the application locally, follow these steps:
 - WebColors: Library for parsing color input from users.
 
 ## Author
-[Krishna Kayaking](https://github.com/techie-krishna-kayaking)- Creator and developer
+[Krishna Kayaking](https://github.com/techie-krishna-kayaking) - Creator and developer
